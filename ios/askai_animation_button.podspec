@@ -4,7 +4,7 @@
 #
 Pod::Spec.new do |s|
   s.name             = 'askai_animation_button'
-  s.version          = '0.0.1'
+  s.version          = '0.0.1+1'
   s.summary          = 'Imitation TikTok of Live button.'
   s.description      = <<-DESC
 Imitation TikTok of Live button.
