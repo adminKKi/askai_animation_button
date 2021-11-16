@@ -1,0 +1,22 @@
+PODS:
+  - askai_animation_button (0.0.1):
+    - Flutter
+  - Flutter (1.0.0)
+
+DEPENDENCIES:
+  - askai_animation_button (from `.symlinks/plugins/askai_animation_button/ios`)
+  - Flutter (from `Flutter`)
+
+EXTERNAL SOURCES:
+  askai_animation_button:
+    :path: ".symlinks/plugins/askai_animation_button/ios"
+  Flutter:
+    :path: Flutter
+
+SPEC CHECKSUMS:
+  askai_animation_button: 20315fcb6b49fe19313fb437d2fd70fd524063fd
+  Flutter: 434fef37c0980e73bb6479ef766c45957d4b510c
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.0
